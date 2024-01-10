@@ -2,7 +2,7 @@
 
 ![screen-gif](./gif.gif)
 
-## Thanks for being here! About me:
+## About me:
 
 - 🔭 I’m Arnau and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV)!
 
