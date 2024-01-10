@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello Everyone! 👋
+
+- 🔭 I’m currently studying Computer Engineering at Polytechnical University of Valencia (UPV)!
+
+- 💻 I’m currently studying for obtaining the OffSec OSCP certification! All types of help will be welcome!
+
+- 🎶 I also love Music! I play the Euphonium, the Trombone and the Cello and i'm also studying my professional cello performance degree at the conservatory!
 
 <!--
 **4rn4u/4rn4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
