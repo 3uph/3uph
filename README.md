@@ -2,9 +2,9 @@
 
 ![screen-gif](./gif.gif)
 
-## Thanks for being here!
+## Thanks for being here! About me:
 
-- 🔭 I’m currently studying Computer Engineering at Polytechnical University of Valencia (UPV)!
+- 🔭 I’m Arnau and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV)!
 
 - 💻 Nowadays I'm studying for obtaining the OffSec OSCP certification! All types of help will be welcome!
 
