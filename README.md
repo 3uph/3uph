@@ -1,4 +1,10 @@
 # Hello Everyone! 👋
+<br><br><br> 
+<h1 align="center">
+	<p>👋 Hello Everyone! I'm Arnau Vila Blanquer👋</p>
+	<br><br>
+</h1>
+<br><br>
 
 ![screen-gif](./gif.gif)
 
