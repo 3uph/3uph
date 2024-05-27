@@ -1,4 +1,3 @@
-# Hello Everyone! 👋
 <br><br><br> 
 <h1 align="center">
 	<p>👋 Hello Everyone! I'm Arnau Vila Blanquer👋</p>
