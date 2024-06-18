@@ -13,7 +13,7 @@
 </h2>
 
 <ul align="justify">
-	<li>🔭 I’m Arnau and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV)! I enjoy Cybersecurity and Software Engineering.</li>
+	<li>🔭 I’m Arnau and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV) in the ARA Group(High Academic Performance Group)! I enjoy Cybersecurity and Software Engineering.</li>
 	<li>💻 Nowadays I'm studying for obtaining the HTB CPTS and HTB CDSA certifications while also learning new technologies as HTML, CSS, JavaScript, TypeScript, NodeJs, Electron and React! All type of help will be welcome!</li>
  	<li>🎶 I also love Music! I play the Euphonium, the Cello and the Trombone and i'm also studying my professional cello performance degree at the conservatory!</li>
  	<li>📚 Currently I own the INE eJPTv2 (Junior Penetration Tester) and INE ICCA (INE Certified Cloud Associate). Going for more!!</li>
