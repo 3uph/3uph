@@ -22,10 +22,10 @@
 <br><br>
 
 <p align="center">
-	<a href="https://github.com/4rn4u">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4rn4u" />
+	<a href="https://github.com/3uph">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=3uph" />
 	</a> &nbsp;
-	<a href="https://github.com/4rn4u">
+	<a href="https://github.com/3uph">
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rn4u&layout=compact&langs_count=8&card_width=250" />
 	</a>
 </p>
