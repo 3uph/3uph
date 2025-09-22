@@ -19,13 +19,4 @@
  	<li>📚 Currently I own the OSWP (Offensive Securtity Wireless Professional, INE eJPTv2 (Junior Penetration Tester) and INE ICCA (INE Certified Cloud Associate). Going for more!!</li>
 </ul>
 
-<br><br>
-
-<p align="center">
-	<a href="https://github.com/3uph">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=3uph" />
-	</a> &nbsp;
-	<a href="https://github.com/3uph">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rn4u&layout=compact&langs_count=8&card_width=250" />
-	</a>
-</p>
+<br><br> 
