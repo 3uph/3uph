@@ -42,20 +42,8 @@
 
 ```bash
 ┌──(root㉿3uph)-[~]
-└─# cat ~/.stats
+└─# ./contributions --animate
 ```
-
-<p>
-  <img src="https://gh-readme-stats.vercel.app/api?username=3uph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=3uph&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=3uph&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3uph/3uph/output/github-snake-dark.svg" />
