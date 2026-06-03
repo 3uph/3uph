@@ -8,7 +8,7 @@
 
 ```text
 ┌──(root㉿3uph)-[~]
-└─# whoami
+└──# whoami
 +------------------------------------------------------------------+
 |                                                                  |
 |   user        : Arnau (a.k.a. 3uph)                              |
@@ -21,19 +21,19 @@
 +------------------------------------------------------------------+
 
 ┌──(root㉿3uph)-[~]
-└─# ls ./certs/
+└──# ls ./certs/
 OSCP   OSWP   eJPTv2   ICCA
 
 ┌──(root㉿3uph)-[~]
-└─# ./contributions --animate
+└──# ./contributions --animate
 [+] rendering activity graph...
 
 ┌──(root㉿3uph)-[~]
-└─# nc -lvnp 4444
+└──# nc -lvnp 4444
 listening on [any] 4444 ...
 
 ┌──(root㉿3uph)-[~]
-└─# exit
+└──# exit
 ```
 
 <p>
