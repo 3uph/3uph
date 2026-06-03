@@ -46,8 +46,7 @@
 ```
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3uph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3uph&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3uph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
