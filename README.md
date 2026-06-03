@@ -19,7 +19,7 @@
 ║   location    : Valencia, Spain                                  ║
 ║   education   : Computer Engineering · UPV (ARA)                 ║
 ║   interests   : OffSec · AD · C2 · Cloud · Wireless · Music      ║
-║   status      : root shell acquired — pivoting deeper...         ║
+║   focus       : Red Team ops · AD attacks · evasion research     ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -46,7 +46,7 @@
 ```
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=3uph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=3uph&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
