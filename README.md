@@ -11,17 +11,17 @@
 └─# cat /etc/profile.d/whoami.sh
 ```
 
-```ansi
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   user        : Arnau (a.k.a. 3uph)                              ║
-║   role        : Red Teamer & Pentester @ S2 Group                ║
-║   location    : Valencia, Spain                                  ║
-║   education   : Computer Engineering · UPV (ARA)                 ║
-║   interests   : OffSec · AD · C2 · Cloud · Wireless · Music      ║
-║   focus       : Red Team ops · AD attacks · evasion research     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+```text
++------------------------------------------------------------------+
+|                                                                  |
+|   user        : Arnau (a.k.a. 3uph)                              |
+|   role        : Red Teamer & Pentester @ S2 Group                |
+|   location    : Valencia, Spain                                  |
+|   education   : Computer Engineering, UPV (ARA)                  |
+|   interests   : OffSec, AD, C2, Cloud, Wireless, Music           |
+|   focus       : Red Team ops, AD attacks, evasion research       |
+|                                                                  |
++------------------------------------------------------------------+
 ```
 
 <br>
