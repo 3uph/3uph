@@ -36,16 +36,16 @@ OSCP  OSWP  CRTO  eJPTv2  ICCA
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/OSCP-A41E11?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/OSWP-A41E11?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CRTO-E11D1D?style=for-the-badge&logo=zerotier&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/eJPTv2-3a4a6b?style=for-the-badge&logo=ine&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ICCA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OSCP-A41E11?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OSWP-A41E11?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CRTO-E11D1D?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/eJPTv2-3a4a6b?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ICCA-9FEF00?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="https://app.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://app.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&labelColor=000000" /></a>
   <img src="https://komarev.com/ghpvc/?username=3uph&style=for-the-badge&color=00FF41&label=VISITORS&labelColor=000000" />
 </p>
 
