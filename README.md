@@ -9,7 +9,6 @@
 ```bash
 ┌──(root㉿3uph)-[~]
 └──# cat .profile
-
   user        Arnau  (a.k.a. 3uph)
   role        Red Teamer & Pentester  @ S2 Group
   location    Valencia, Spain
